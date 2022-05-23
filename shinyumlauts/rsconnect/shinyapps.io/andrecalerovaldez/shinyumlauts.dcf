@@ -1,0 +1,13 @@
+name: shinyumlauts
+title: shinyumlauts
+username:
+account: andrecalerovaldez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6349654
+bundleId: 5934074
+url: https://andrecalerovaldez.shinyapps.io/shinyumlauts/
+when: 1653288635.94148
+lastSyncTime: 1653288635.94149
+asMultiple: FALSE
+asStatic: FALSE
